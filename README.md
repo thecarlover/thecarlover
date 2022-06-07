@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @thecarlover
-- 👀 I’m interested in ... Artificial Intlligence
+- 👋 Hi, I’m Ojasvi Mittal
+- 👀 I’m Software engineer
 - 🌱 I’m currently learning ...Software developing
-- i have a reading attitude
-- i love cars
+-😊  I'm Coding right now
 
 <!---
 thecarlover/thecarlover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
