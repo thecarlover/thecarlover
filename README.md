@@ -12,7 +12,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Git-Explorer Repo Hunter](https://github.com/thecarlover/Gitexplorer.git)
+- 🔭 I’m currently working on [Git-hunter Repo Hunter](https://github.com/thecarlover/Gitexplorer.git)
 - 🌱 I’m currently learning **React-Native**
 - 👯 I’m looking to collaborate on [Buzz-Chat Webapp](https://github.com/thecarlover/BuzzChat.git)
 - 👨‍💻 All of my projects are available at [ojasvimittal.site](ojasvimittal.site)
